@@ -50,7 +50,7 @@ html, body {
 
 .LM-card {
  /*background: #fff;*/
-    background: rgba(255, 255, 255, 0.7); /* léger rose-beige */
+    background: rgba(255, 255, 255, 0.7); 
   border-radius: 12px;
   padding: 16px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.08);
@@ -66,7 +66,7 @@ html, body {
 .LM-when-lead {
   font-family: 'Great Vibes', cursive;
   color: #ba9991;
-  font-size: 25px;
+  font-size: 30px;
 }
 
 /* ---------- Encart 1 : "Quand, où ?" ---------- */
